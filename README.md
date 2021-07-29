@@ -17,7 +17,7 @@ This project was built with:
 Coming soon...
 
 ## Instructions
-1. Download [zip file](). 
+1. Download [zip file](https://github.com/seraph776/credit_card_validator/archive/refs/heads/main.zip). 
 2. Extract zip files.
 3. Run `credit_card_validator.py` from the extracted zip file location. 
 
