@@ -7,12 +7,18 @@
 This is a credit card validator using Python and Luhn's Algorithm
 
 ## Technology Framework
-This project was built with:
-- `Python 3.9.6`
+:: **Built with** ::
 
 
+![made-with-PyCharm](https://img.shields.io/badge/2021.2-blue?label=PyCharm&logo=pycharm&logoColor=white)
+
+![made-with-Python](https://img.shields.io/badge/3.9.6-blue?label=Python&logo=python&logoColor=white)
+
+
+---
 ## Requirements
-- `Python 3.0 +` 
+
+![made-with-Python](https://img.shields.io/badge/3.9.6-blue?label=Python&logo=python&logoColor=white)
 
 ## Screenshots and demo
 [Luhn Algorithm](https://seraph76.com/index.php/2021/07/29/credit-card-number-validator-using-luhn-algorithm/)
@@ -33,18 +39,23 @@ project-env\Scripts\Activate.bat
 ```
 python `credit_card_validator.py`
 ```
-
-
+---
 ## Contributing
-This is an open source project. Feedback, Questions and Pull requests are welcome. For major changes, please open an 
-issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+This is an open source project. Feedback, Questions and Pull requests are welcome. 
+For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
 
+---
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details
+This project is licensed under the MIT License
 
+[![MIT License](https://img.shields.io/badge/MIT-License-blue?logo=docusign&logoColor=white)](https://raw.githubusercontent.com/seraph776/PROJECTNAME/main/LICENSE)
 
+---
+## Contact me
+If you have any questions about this project, feel free to get in touch:
 
-
+[![Gmail](https://img.shields.io/badge/Gmail-%20-blue?logo=gmail&logoColor=white)](mailto:seraph776@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%20-blue?logo=twitter&logoColor=white)](https://twitter.com/seraph776) 
 
 
 
